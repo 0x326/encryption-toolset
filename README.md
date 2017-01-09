@@ -6,6 +6,8 @@ A list of apps/programs which utilize encryption
 Messaging
 ---------
 
+See [here](https://wire.com/privacy/#table-competition) for a tabular breakdown of supported features for some of the below apps
+
 ### Open Source Encryption Apps
 
  - [Wire](https://wire.com/): Encrypts texts messages, photos, and calls, etc. (Now released under the GPLv3 license)
